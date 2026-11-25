@@ -1,0 +1,11 @@
+# Dataset (must not be committed per Assignment 4 instructions)
+data/
+
+# Python caches
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+*.egg-info/
+.venv/
+venv/
