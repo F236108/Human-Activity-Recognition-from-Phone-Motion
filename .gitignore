@@ -1,5 +1,5 @@
-# Dataset (must not be committed per Assignment 4 instructions)
-data/
+# Data folder (included in repo)
+# data/
 
 # Python caches
 __pycache__/
